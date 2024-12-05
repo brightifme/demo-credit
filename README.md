@@ -34,5 +34,5 @@ The Wallet Service API uses standard HTTP error codes to indicate the outcome of
 - 500 Internal Server Error: An unexpected error occurred while processing the request.
 
 
-![ Image Description ] (er-diagram.jpg)
+! [Image Description] (er-diagram.jpg)
 Wallet App Entity Relationship Diagram 
