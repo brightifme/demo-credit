@@ -35,4 +35,5 @@ The Wallet Service API uses standard HTTP error codes to indicate the outcome of
 
 
 ![Entity relationship diagram for demo wallet] (er.jpg)
+
 Wallet App Entity Relationship Diagram 
